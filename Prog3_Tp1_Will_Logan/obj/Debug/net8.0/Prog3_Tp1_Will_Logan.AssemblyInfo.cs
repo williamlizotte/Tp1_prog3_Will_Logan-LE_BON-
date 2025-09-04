@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prog3_Tp1_Will_Logan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1076eab81dcde8f97bdbde71f1adcd6054f45f0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7f06b34483a06de6c9043af067dc90aeb92cc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prog3_Tp1_Will_Logan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prog3_Tp1_Will_Logan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

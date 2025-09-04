@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\6183688\\Desktop\\tp\\TP1_prog3_Will_Logan 1\\TP1_prog3_Will_Logan\\Prog3_Tp1_Will_Logan\\Prog3_Tp1_Will_Logan.csproj": {}
+    "C:\\Users\\6183688\\Desktop\\tpProg3\\Tp1_prog3_Will_Logan-LE_BON-\\Prog3_Tp1_Will_Logan\\Prog3_Tp1_Will_Logan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\6183688\\Desktop\\tp\\TP1_prog3_Will_Logan 1\\TP1_prog3_Will_Logan\\Prog3_Tp1_Will_Logan\\Prog3_Tp1_Will_Logan.csproj": {
+    "C:\\Users\\6183688\\Desktop\\tpProg3\\Tp1_prog3_Will_Logan-LE_BON-\\Prog3_Tp1_Will_Logan\\Prog3_Tp1_Will_Logan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6183688\\Desktop\\tp\\TP1_prog3_Will_Logan 1\\TP1_prog3_Will_Logan\\Prog3_Tp1_Will_Logan\\Prog3_Tp1_Will_Logan.csproj",
+        "projectUniqueName": "C:\\Users\\6183688\\Desktop\\tpProg3\\Tp1_prog3_Will_Logan-LE_BON-\\Prog3_Tp1_Will_Logan\\Prog3_Tp1_Will_Logan.csproj",
         "projectName": "Prog3_Tp1_Will_Logan",
-        "projectPath": "C:\\Users\\6183688\\Desktop\\tp\\TP1_prog3_Will_Logan 1\\TP1_prog3_Will_Logan\\Prog3_Tp1_Will_Logan\\Prog3_Tp1_Will_Logan.csproj",
+        "projectPath": "C:\\Users\\6183688\\Desktop\\tpProg3\\Tp1_prog3_Will_Logan-LE_BON-\\Prog3_Tp1_Will_Logan\\Prog3_Tp1_Will_Logan.csproj",
         "packagesPath": "C:\\Users\\6183688\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6183688\\Desktop\\tp\\TP1_prog3_Will_Logan 1\\TP1_prog3_Will_Logan\\Prog3_Tp1_Will_Logan\\obj\\",
+        "outputPath": "C:\\Users\\6183688\\Desktop\\tpProg3\\Tp1_prog3_Will_Logan-LE_BON-\\Prog3_Tp1_Will_Logan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
